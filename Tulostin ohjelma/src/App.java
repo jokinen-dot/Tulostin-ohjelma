@@ -42,7 +42,9 @@ public class App {
 
     System.out.println("Lukujen keskiarvo : " + keskiarvo); 
 
-    
+    System.out.println("Ohjelma suoritettu loppuun");
+
+
 
 
 
