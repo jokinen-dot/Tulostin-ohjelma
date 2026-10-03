@@ -16,8 +16,8 @@ public class App {
 
     // Tulostin ohjleman tulostukset
 
-
-    System.out.println("Ohjelman tekija.");
+    System.out.println("Hei olen tulostin-ohjelma");
+    
 
 
     System.out.println("Ohjelman tekija on: " + tekija);
@@ -32,6 +32,17 @@ public class App {
 
 
     System.out.println("Lukujen tulo : " + tulo);
+
+
+    System.out.println("Lukujen summa : " + summa);
+    System.out.println("Lukujen erotus : " + erotus);
+    System.out.println("Lukujen jako : " + jako);
+
+
+
+
+
+
 
 
     }
