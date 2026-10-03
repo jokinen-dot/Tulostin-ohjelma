@@ -38,6 +38,12 @@ public class App {
     System.out.println("Lukujen erotus : " + erotus);
     System.out.println("Lukujen jako : " + jako);
 
+    double keskiarvo = (luku1 + luku2) / 2; 
+
+    System.out.println("Lukujen keskiarvo : " + keskiarvo); 
+
+    
+
 
 
 
